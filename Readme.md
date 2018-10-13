@@ -4,7 +4,7 @@
 Flashcards Q & A
 
 ### App Walk-though
-<img src="https://imgur.com/a/CY7qh86" width=200><br>
+<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/CY7qh86"><a href="//imgur.com/CY7qh86"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>" width=200><br>
 
 ## Required
 - [x] Create New Project in Xcode
