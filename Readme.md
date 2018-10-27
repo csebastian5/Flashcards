@@ -4,7 +4,7 @@
 Flashcards Q & A
 
 ### App Walk-though
-<img src="https://imgur.com/VXkPYtm" width=200><br>
+<img src="https://media.giphy.com/media/8hYyvlcQoOhXhGdWGB/giphy.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Xcode
