@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AA1BDA3621851F29009C1497 /* CreationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA1BDA3521851F29009C1497 /* CreationViewController.swift */; };
 		AA4FEA0321728ED3007A511F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA4FEA0221728ED3007A511F /* AppDelegate.swift */; };
 		AA4FEA0521728ED3007A511F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA4FEA0421728ED3007A511F /* ViewController.swift */; };
 		AA4FEA0821728ED3007A511F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA4FEA0621728ED3007A511F /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AA1BDA3521851F29009C1497 /* CreationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreationViewController.swift; sourceTree = "<group>"; };
 		AA4FE9FF21728ED3007A511F /* Flashcards.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Flashcards.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA4FEA0221728ED3007A511F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AA4FEA0421728ED3007A511F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				AA4FEA0221728ED3007A511F /* AppDelegate.swift */,
 				AA4FEA0421728ED3007A511F /* ViewController.swift */,
 				AA4FEA0621728ED3007A511F /* Main.storyboard */,
+				AA1BDA3521851F29009C1497 /* CreationViewController.swift */,
 				AA4FEA0921728ED5007A511F /* Assets.xcassets */,
 				AA4FEA0B21728ED5007A511F /* LaunchScreen.storyboard */,
 				AA4FEA0E21728ED5007A511F /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				AA4FEA0521728ED3007A511F /* ViewController.swift in Sources */,
 				AA4FEA0321728ED3007A511F /* AppDelegate.swift in Sources */,
+				AA1BDA3621851F29009C1497 /* CreationViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
